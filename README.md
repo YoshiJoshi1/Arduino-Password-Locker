@@ -49,11 +49,7 @@ Adjust:
 
 ## Run the vault CLI
 
-From the `Simulator` folder:
-
-```bash
-python vault_cli.py
-```
+Use the .bat file in the repo, make sure it is in the same location as your .py file.
 
 What happens:
 
